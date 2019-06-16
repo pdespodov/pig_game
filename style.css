@@ -29,7 +29,7 @@ body {
 .wrapper {
     width: 1000px;
     position: absolute;
-    top: 50%;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
     background-color: #fff;
@@ -43,6 +43,13 @@ body {
     float: left;
     height: 600px;
     padding: 100px;
+}
+
+.instructions {
+    margin-bottom: 50px; 
+    margin-left: 50px; margin-right:50px; 
+    margin-top:20px; 
+    color: white;
 }
 
 
